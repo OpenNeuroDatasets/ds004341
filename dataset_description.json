@@ -1,13 +1,10 @@
-{
-    "Name": "semantic_encoding",
-    "BIDSVersion": "1.2.0",
-    "Authors": [
-        "Loris Naspi",
-        "Paul Hoffman",
-        "Alexa Morcom"
-    ],
-    "DatasetType": "raw",
-    "HowToAcknowledge": "Please cite https://doi.org/10.1523/JNEUROSCI.0677-21.2021",
-    "Acknowledgements": "Edinburgh University <br>\nSussex Univerity",
-    "License": "CC0"
+﻿{
+	"Name":"semantic_encoding",
+	"BIDSVersion":"1.2.0",
+	"Authors":["Loris Naspi","Paul Hoffman","Alexa Morcom"],
+	"DatasetType":"raw",
+	"HowToAcknowledge": "Please cite  this dataset as https://doi.org/10.1523/JNEUROSCI.0677-21.2021 and refer to the behavioral data and code at the OSF link below",
+	"Acknowledgements": ["University of Edinburgh","University of Sussex"],
+	"SourceDatasets": "https://osf.io/z4c62/",
+	
 }

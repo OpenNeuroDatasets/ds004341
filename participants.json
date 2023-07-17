@@ -1,0 +1,17 @@
+{
+  "concept": {
+    "LongName": "handedness",
+	"Description": "Right or left handed",
+	"Levels": {
+      "1": "R",
+      "2": "L"
+		}
+  },
+  "sex": {
+    "LongName": "Participant sex",
+	}
+  "age": {
+    "LongName": "Participant age",
+	"Description": "Participant age (range: 18-35 years)",
+	}
+}
