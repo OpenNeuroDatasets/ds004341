@@ -2,7 +2,6 @@
   "concept": {
     "LongName": "Concept name",
     "Description": "Concept label for this studied object (from CSLB norms)"
-    }
   },
   "condition": {
     "LongName": "Subsequent memory condition",
@@ -12,5 +11,6 @@
       "2": "subMiss",
       "3": "subCR",
       "4": "subFA"
-  }
+		}
+	}
 }
