@@ -5,6 +5,6 @@
 	"DatasetType":"raw",
 	"HowToAcknowledge": "Please cite this dataset as https://doi.org/10.1523/JNEUROSCI.0677-21.2021 and refer to the behavioral data and code at the OSF link below",
 	"Acknowledgements": ["University of Edinburgh","University of Sussex"],
-	"ReferencesAndLinks": "https://osf.io/z4c62/"
+	"SourceDatasets": "https://osf.io/z4c62/"
 	
 }
