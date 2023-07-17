@@ -3,8 +3,8 @@
 	"BIDSVersion":"1.2.0",
 	"Authors":["Loris Naspi","Paul Hoffman","Alexa Morcom"],
 	"DatasetType":"raw",
-	"HowToAcknowledge": "The Please cite this dataset with https://doi.org/10.1523/JNEUROSCI.0677-21.2021",
+	"HowToAcknowledge": " Please cite this dataset with https://doi.org/10.1523/JNEUROSCI.0677-21.2021",
 	"Acknowledgements": ["University of Edinburgh","University of Sussex"],
-	"ReferencesAndLinks": [Behavioural data and code at: "https://osf.io/z4c62/"]
+	"ReferencesAndLinks": ["Behavioural data and code at: https://osf.io/z4c62/"]
 	
 }
