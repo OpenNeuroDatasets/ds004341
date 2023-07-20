@@ -12,6 +12,6 @@
 	}
   "age": {
     "LongName": "Participant age",
-	"Description": "Participant age (range: 18-35 years)",
+	"Description": "Participant age (range: 18-35 years)"
 	}
 }
